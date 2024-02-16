@@ -1,0 +1,47 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\2.1.506\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\2.1.506\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\Atmel\ATmega_DFP\2.1.506\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\Debug\LAB 3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LAB 3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LAB 3.map</FILE>
+  <FILE>LAB 3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>22</LINE></MAIN>
+  <ISR_PCINT0><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>158</LINE></ISR_PCINT0>
+  <ISR_TIMER0_OVF><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>234</LINE></ISR_TIMER0_OVF>
+  <Setup><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>33</LINE></Setup>
+  <TABLA><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>84</LINE></TABLA>
+  <Init_T0><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>219</LINE></Init_T0>
+  <LOOP><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>91</LINE></LOOP>
+  <RESET1><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>138</LINE></RESET1>
+  <UNIDADES><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>143</LINE></UNIDADES>
+  <ESPERA><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>118</LINE></ESPERA>
+  <RESET2><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>148</LINE></RESET2>
+  <delay><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>120</LINE></delay>
+  <delay1><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>124</LINE></delay1>
+  <delay2><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>128</LINE></delay2>
+  <delay3><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>132</LINE></delay3>
+  <CHECKPB2><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>198</LINE></CHECKPB2>
+  <CHECKPB1><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>188</LINE></CHECKPB1>
+  <SALIR><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>208</LINE></SALIR>
+  <delai><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>190</LINE></delai>
+  <delai1><FILE>C:\Users\josei\Documents\Atmel Studio\7.0\LAB 3\LAB 3\main.asm</FILE><LINE>200</LINE></delai1>
+ </LABELS>
+</ASSEMBLER_INFO>
